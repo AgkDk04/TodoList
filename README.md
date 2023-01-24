@@ -8,6 +8,6 @@ At the frontend, use `npm i --force` instead of `npm i` while installing the pac
 
 - Todo items are stored using the mongoDB database.
 
-- Token authentication is added but the infrastructure to renew the refresh token is not in place.
+- Token authentication is added but the infrastructure to renew the token is not in place.
 
 - For the sake of convenience, token expiration duration is set for 1 day.
